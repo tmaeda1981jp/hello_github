@@ -1,22 +1,20 @@
 hello_github
 ============
 
-test1
------
+title1
+------
 
 - this is test.
 - this is test2.
 
-
-test2
------
+title2
+------
 
 - hoge
 - fuga
 
-
-test3
------
+title3
+------
 
 <table>
   <tr>
@@ -38,9 +36,3 @@ test3
     <td>Row</td>
   </tr>
 </table>
-
-***
-
-test
-
-test2
